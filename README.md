@@ -1,2 +1,2 @@
 # animalVertebratesForm
-See Readme
+See Readme file in the zip folder.
